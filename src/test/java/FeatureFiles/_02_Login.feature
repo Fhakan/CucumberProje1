@@ -1,8 +1,4 @@
-#Senaryo;
-  #1- Para Bank sitesine geçerli kullanıcı bilgileriyle giriş yapınız ve Login olduğunuzu
-  #doğrulayınız
-  #2- Para Bank sitesine geçersiz kullanıcı bilgileriyle giriş yapınız ve login olmadığınızı
-  #doğrulayınız. (Username ve password için ayrı ayrı deneyin)
+
 
 
 Feature: Login Functionality

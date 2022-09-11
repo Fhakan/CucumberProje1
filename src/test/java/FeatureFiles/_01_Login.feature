@@ -1,9 +1,4 @@
-#Senaryo ;
-#1- siteyi açınız.
-#2- username ve password u gönderin ve Login butonuna tıklatın.
-#3- Login olduğunuzu doğrulayın.
 
-  #- Sonra Yukarıdaki Senaryoyu Gherkin dilinde yazdık.
 
 Feature: Login Functionality
 

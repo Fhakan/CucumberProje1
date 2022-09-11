@@ -1,8 +1,4 @@
-#Senaryo;
-  #1- Bill Pay sayfasına gidiniz
-  #2- Elektrik (85), Su (45), Doğalgaz (120) faturalarını ödeyiniz
-  #NOT: Her fatura için farklı veri kullanınız.
-  #3- Her ödemeden sonra faturanın ödendiğini doğrulayınız
+
 
 
 Feature: BillPay Functionality
